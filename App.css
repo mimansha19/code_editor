@@ -1,0 +1,14 @@
+.App {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+pre {
+  background: #f4f4f4;
+  padding: 1rem;
+}
